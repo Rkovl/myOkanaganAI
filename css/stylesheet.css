@@ -1,0 +1,10 @@
+@media (min-width: 2000px) {
+    img {
+      content: url("../public/oc_v1.png");
+    }
+}
+
+body{
+    background-color: #f0f0f0;
+    color: black;
+}
